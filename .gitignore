@@ -1,0 +1,5 @@
+# Matlab Debug Files
+*.asv
+
+# Matlab Output Files:
+WorkspaceCNN2040.mat
