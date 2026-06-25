@@ -1,5 +1,5 @@
 <div style="color:#0d6efd;">
-    <h1>Lightweight CNN model for Mistletoe Classification</h1>
+    <h1>Hybrid Multi-Objective Neural Architecture Search for Lightweight Patch-Based Mistletoe Classification in UAV Imagery.</h1>
 </div>
 
 <p>
