@@ -99,8 +99,8 @@ Gil-Rios, M.-A., Escalante, N., Valdiviezo-Navarro, J., Mejia-Zuluaga, P., Dozal
     volume = {19},
     year = {2026},
     article-number = {47},
-    url = {https://www.mdpi.com/1999-4893/19/1/47},
+    url = {https://www.mdpi.com/2313-433X/12/7/281},
     issn = {1999-4893},
-    doi = {10.3390/a19010047}
+    doi = {10.3390/jimaging12070281}
 }
 ```
