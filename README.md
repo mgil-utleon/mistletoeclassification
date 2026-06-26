@@ -64,7 +64,7 @@ This repository contains the data and workspace for testing a lightweight Convol
     </li>
     <li>
         Nivia Iracemi Escalante Garcia
-        <a href="mgil@utleon.edu.mx">mgil@utleon.edu.mx</a>, 
+        <a href="nivia.eg@pabellon.tecnm.mx">nivia.eg@pabellon.tecnm.mx</a>, 
         <a href="https://orcid.org/0000-0003-2688-6519">ORCID</a>
     </li>
     <li>
@@ -74,6 +74,12 @@ This repository contains the data and workspace for testing a lightweight Convol
     <li>
         Paola Andrea Mejía Zuluaga, 
         <a href="mailto:pmejia@centrogeo.edu.mx">pmejia@centrogeo.edu.mx</a>
+        <a href="https://orcid.org/0000-0001-6075-4419">ORCID</a></li>        
+    </li>
+    <li>
+        Le&oacute;n Dozal, 
+        <a href="mailto:leon.dozal@gmail.com">leon.dozal@gmail.com</a>
+        <a href="https://orcid.org/0000-0003-1347-8209">ORCID</a></li>        
     </li>
     <li>
         Ivan Cruz Aceves, 
@@ -85,22 +91,22 @@ This repository contains the data and workspace for testing a lightweight Convol
 
 ### If you use this material, please reference us as following:
 #### AC S Style
-Gil-Rios, M.-A.; Escalante, N.; Valdiviezo-Navarro, J.; Mejia-Zuluaga, P.; Dozal, L.; Cruz-Aceves, I. Hybrid Multi-Objective Neural Architecture Search for Lightweight Mistletoe Classification in UAV Imagery. Journal of Imaging 2026, 19, 47. https://doi.org/10.3390/a19010047
+Gil-Rios, M.-A.; Escalante-Garcia, N.; Valdiviezo-Navarro, J.; Mejia-Zuluaga, P.; Dozal, L.; Cruz-Aceves, I. Hybrid Multi-Objective Neural Architecture Search for Lightweight Patch-Based Mistletoe Classification in UAV Imagery. Journal of Imaging 2026, 12, 281. https://doi.org/10.3390/jimaging12070281
 
 #### APA Style
-Gil-Rios, M.-A., Escalante, N., Valdiviezo-Navarro, J., Mejia-Zuluaga, P., Dozal, L., Cruz-Aceves, I. (2026). Hybrid Multi-Objective Neural Architecture Search for Lightweight Mistletoe Classification in UAV Imagery. Journal of Imaging 2026, 19, 47. https://doi.org/10.3390/a19010047
+Gil-Rios, M.-A., Escalante-Garcia, N., Valdiviezo-Navarro, J., Mejia-Zuluaga, P., Dozal, L., Cruz-Aceves, I. (2026). Hybrid Multi-Objective Neural Architecture Search for Lightweight Patch-Based Mistletoe Classification in UAV Imagery. Journal of Imaging 2026, 19, 47. https://doi.org/10.3390/jimaging12070281
 
 #### BibTEx
 ```
 @Article{Gil2026,
-    title = {Hybrid Multi-Objective Neural Architecture Search for Lightweight Mistletoe Classification in UAV Imagery.},
-    author = {Gil-Rios, Miguel-Angel and Escalante, Nivia and Valdiviezo-Navarro, Juan-C. and Mejia-Zuluaga, Paola Andrea and Dozal, Leon and Cruz-Aceves, Ivan},
+    title = {Hybrid Multi-Objective Neural Architecture Search for Lightweight Patch-Based Mistletoe Classification in UAV Imagery},
+    author = {Gil-Rios, Miguel-Angel and Escalante-Garcia, Nivia and Valdiviezo-Navarro, Juan C. and Mejia-Zuluaga, Paola Andrea and Dozal, León and Cruz-Aceves, Ivan},
     journal = {Journal of Imaging},
-    volume = {19},
+    volume = {12},
     year = {2026},
-    article-number = {47},
+    article-number = {281},
     url = {https://www.mdpi.com/2313-433X/12/7/281},
-    issn = {1999-4893},
+    issn = {2313-433X},
     doi = {10.3390/jimaging12070281}
 }
 ```
